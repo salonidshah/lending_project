@@ -1,4 +1,3 @@
-This is the main file
-:wq
+#This is the main file
 
 
